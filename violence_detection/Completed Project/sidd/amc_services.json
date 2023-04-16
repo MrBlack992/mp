@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "amc-cctv",
+  "private_key_id": "d4ee9fbb4b4da4ddf03a31a096fabb42ded17882",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC12z2+OiBo3ZLt\nTdbb7heSRcB6aBw3rq11p9C7HDYInhPJueV15Czs3ISUqKxwPYvDxwPiExT73tIU\nZBrMDbVEuVZ2UCDMEctqDdA9Fm0VcSORokCF4I4s59A9N8/AdkTfuS3uKVw5OpDB\n2YxUnvDRKKQ31fxj3GWunIafZXe3DFWsW3rjrdy6vsTxjmPXEgIhRoCrWmkwvvqU\nVzujaA5hlX4gAj+JkoMl4SM768cYwkiBcfDSivE+IOTzVQG34zQ3Teq40ONzqMnO\n/Tke1dnF30nh+d4K80Mp3oJ/zIhVqM7LnQyRfxaeOWSZNfwwyVgO9y8X5ib468ga\nWW6gFYyLAgMBAAECggEABpiKF8Ex9bu7nYHKPjXXgwWmoonuJBLg1bideHvgddWN\n8C4e5XS+MGUbJe0sO/HvhM1OFcANbck6I2UyF56TqYdzXF0xo1Ut5I3VtLGAiVuO\nJ7UT1Ac+AODzi5TfoyJnAxpLUS0M3EKEh5NlZJhTMbLgqenH+rM+uOOSemuKuQfY\no4fbIU9sV7kr0zw87lU3OhfbePWy1qEgq3j/CBfhguLSIjmuteSH4PQz2NOA/2j/\nwQV3Eo9yBgzQ2KtGSGUUnSGVj2UoG8E1UM2xD8c4V5Hx6gTgVcgPwZckYvGmMX3M\nIVpsXs6GUx4Usznl2FsdsafFyHPJTrhuI8Pa9zGtoQKBgQD97l6sYD8yBy5uBYGY\nVT+yHvPk62FSy04bGPE0Y866rXnIoP/K5LRRXUcUbftMaQIBc7JCKKvtrzCaqa9h\n+XEt0EUX5Vlk8GOIOvXweReeAs436UrDtJB1UJcLksRbS80eigYGw9roeZcEDy8B\noM/m1r2QlhnFk1nVAI+7sIXYWwKBgQC3VosdAgbGXT3kEka4D1Jp7mOr7KZJ8tpi\ns8LPc2lV/YXl2RDJV0yArLL1K0bD0sDn9BfFD+nvsDwfDFp0l6J9EFDMsH7DcxTk\nT1DbSFaBrluLrMdnmCWuVJrvADLPU09KP86gAM8+3/yKZqM99FqUyOwHYaSOyoMa\nLKK9s0nTkQKBgQC9fwRhqNWgNOG+Mxe6IWwONbEWlV0klxlreVqPGShuAQVP5m3c\n8H1r9qsToNuW8woPIVLWsllTX5hq4tRBzg9a/ACDy6DBhe8Q+8cLNKKeRUO1T8B+\neaIQGhsOBPHJm7Cv6JqEs+YJ9Krw2Y/frC1Z+8itPIZw/fxcyzV4AExx3wKBgHRo\nkvPcMYkJ8x45LIX51I5GOysSm5Mgi+FX2j32Pc/HpZkHdk0hDQY2oXph/BCiZLHi\nnqUVMahq8gGUymp1TUqzbVpKRnK7Q2yjn+dbyvGUT7QkBIiWZnaGacmPCrPxZcrz\nMLMPUIfPmH4YJVZVLJ6D5LnbGa1AkHWyGbLxf9LBAoGBAJ0Tr0LN2B0j3ASQSMrR\neRgxhdvHo8TquYGceIFIP4N0XBRwN2MVbSkOQwbPuffl5bi1OibxW0IdUX6EPIxI\nJfsjsaxDP/T7W+LajPXM24qwBD2xddoqGOizVcqHXMFqfM1EB2Lyo2IEAb1O5qWD\nqRcVKh4m6D04x6Z8xEUKnoPX\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-qf3lx@amc-cctv.iam.gserviceaccount.com",
+  "client_id": "117227292104865144417",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-qf3lx%40amc-cctv.iam.gserviceaccount.com"
+}
